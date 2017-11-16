@@ -4,6 +4,9 @@ output:
   html_document: 
     keep_md: yes
 ---
+
+
+
 ###Background
 The purpose of the project was to answer a series of questions using data collected from activity monitoring devices.
 
